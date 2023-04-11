@@ -1,0 +1,5 @@
+import os
+
+os.chdir('Encryption')
+
+os.system('python Encryptor.py')
